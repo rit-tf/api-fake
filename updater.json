@@ -1,7 +1,7 @@
 {
     "id": "1",
     "NewUpdater": true,
-    "updateVersion": "v2.0.1",
+    "newVersionApp": "v2.0.1",
     "DownloadNewUpdaterVersion": "https://d2u45olc1271al.cloudfront.net/Updater/tf_store_services_jobs_v3.0.0.zip",
     "storeCode": "000126",
     "storeVersion": "v2.0.0"
